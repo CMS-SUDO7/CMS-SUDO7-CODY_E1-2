@@ -50,7 +50,6 @@ quiz-game/
 
 # ✅ 4. Git 커밋 전략 (이거 그대로 하면 10개 채움)
 
-```bash
 git init
 
 git add .
@@ -80,6 +79,33 @@ git push
 
 # 기존 폴더에서
 git pull
-
+```
 1. 프로그램 시작 화면
 <img width="616" height="215" alt="image" src="https://github.com/user-attachments/assets/1a9d95ca-0530-41fd-8296-8f5674e857e0" />
+
+2. 퀴즈 진행 화면
+<img width="1583" height="934" alt="스크린샷 2026-04-13 213602" src="https://github.com/user-attachments/assets/e64b97d5-950f-4d8a-94ae-55c34cae1ddf" />
+
+3. 결과 + 최고 점수 갱신
+<img width="429" height="114" alt="스크린샷 2026-04-13 213658" src="https://github.com/user-attachments/assets/e939a80a-33cf-4d52-8f9c-ba70aea9cb13" />
+
+4. 퀴즈 추가 화면
+<img width="690" height="239" alt="스크린샷 2026-04-13 213828" src="https://github.com/user-attachments/assets/1653770c-7ca5-44f4-8b82-e9d5741e4811" />
+
+5. 퀴즈 목록 확인
+<img width="448" height="213" alt="스크린샷 2026-04-13 213847" src="https://github.com/user-attachments/assets/71492cb6-8fe7-4e59-9aba-c8314f242174" />
+
+6. 퀴즈 삭제
+<img width="458" height="553" alt="image" src="https://github.com/user-attachments/assets/a883bb62-9678-4b2a-a8ed-e3484921b159" />
+
+7. 점수 확인
+<img width="408" height="103" alt="image" src="https://github.com/user-attachments/assets/8215a94a-9116-46da-a290-67804f0dafb5" />
+
+8.잘못된 입력 처리 (중요 ⭐)
+
+<img width="733" height="391" alt="image" src="https://github.com/user-attachments/assets/1673fde5-97f2-455c-ac5f-5d1258b6abbd" />
+
+
+9.안전 종료 (Ctrl + C)
+
+<img width="491" height="69" alt="image" src="https://github.com/user-attachments/assets/e2109445-0fd4-4c34-a3aa-2c8e3612927e" />
