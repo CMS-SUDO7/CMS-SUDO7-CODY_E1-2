@@ -71,7 +71,7 @@ git commit -am "Feat: JSON 저장/불러오기 구현"
 
 git commit -am "Docs: README 작성"
 
-git clone <repo_url>
+git clone https://github.com/CMS-SUDO7/CMS-SUDO7-CODY_E1-2
 
 # 수정 후
 git commit -am "Docs: README 한 줄 추가"
