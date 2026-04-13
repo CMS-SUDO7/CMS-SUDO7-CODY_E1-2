@@ -71,7 +71,7 @@ git commit -am "Feat: JSON 저장/불러오기 구현"
 
 git commit -am "Docs: README 작성"
 
-git clone https://github.com/CMS-SUDO7/CMS-SUDO7-CODY_E1-2
+git clone https://github.com/CMS-SUDO7/CMS-SUDO7-CODY_E1-2 quiz-game-clone
 
 # 수정 후
 git commit -am "Docs: README 한 줄 추가"
@@ -109,4 +109,3 @@ git pull
 9.안전 종료 (Ctrl + C)
 
 <img width="491" height="69" alt="image" src="https://github.com/user-attachments/assets/e2109445-0fd4-4c34-a3aa-2c8e3612927e" />
-clone 실습 완료
