@@ -109,3 +109,4 @@ git pull
 9.안전 종료 (Ctrl + C)
 
 <img width="491" height="69" alt="image" src="https://github.com/user-attachments/assets/e2109445-0fd4-4c34-a3aa-2c8e3612927e" />
+clone 실습 완료
